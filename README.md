@@ -1,6 +1,6 @@
 <h1 align="center">Desafios de código em C# <br> BootCamp GFT - Digital Innovation one</h1>
 
-<h3 align="left">Desenvolvendo Algoritmos com C#</h3>
+<h3 align="center">Desenvolvendo Algoritmos com C#</h3>
 
 <div align="center">
 
