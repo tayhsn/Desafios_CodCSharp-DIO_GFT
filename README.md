@@ -2,6 +2,8 @@
 
 <h3 align="left">Desenvolvendo Algoritmos com C#</h3>
 
+<div align="center">
+
 | Etapa |                              Desafio                              |     Solução     |
 |:---:|:------------------------:|:-------:|
 |  1  | Cálculo de Viagem | [Código]() |
@@ -18,5 +20,6 @@
  	3 - Tayanne = <a href="https://github.com/Anacarlags"> GitHub </a> & <a href="https://www.linkedin.com/in/ana-carla-gs-lta/">Linkedin</a> 
 </h4>
 
+</div>
 
 
