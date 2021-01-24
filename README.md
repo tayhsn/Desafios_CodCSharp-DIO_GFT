@@ -6,9 +6,9 @@
 
 | Etapa |                              Desafio                              |     Solução     |
 |:---:|:------------------------:|:-------:|
-|  1  | Cálculo de Viagem | [Código]() |
-|  2  | Álbum da Copa | [Código](https://github.com/Anacarlags/Desafios_CodigoCsharp-Bootcamp_GFT/tree/master/AlbumCopa) |
-|  3  | Animal | [Código]() |
+|  1  | Cálculo de Viagem | <a href="https://github.com/tayhsn/Desafios_CodCSharp-DIO_GFT/tree/master/Consumo-Viagem"> Código </a> |
+|  2  | Álbum da Copa | <a href="https://github.com/tayhsn/Desafios_CodCSharp-DIO_GFT/tree/master/AlbumCopa"> Código </a> |
+|  3  | Animal | <a href="https://github.com/tayhsn/Desafios_CodCSharp-DIO_GFT/tree/master/Animal"> Código </a> |
 
 
 
